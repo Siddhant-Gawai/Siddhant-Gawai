@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing softwares that can be scaled 100x 
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on random stuff
-- 📫 How to reach me - by getting coffe
+- 📫 How to reach me - On linkedIn
 
 <!---
 Siddhant-Gawai/Siddhant-Gawai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
