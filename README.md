@@ -17,6 +17,7 @@ I design dependable services, event-driven workflows, and integration layers for
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| [CVcurator](https://github.com/Siddhant-Gawai/cvcurator) | Browser-local CV builder with PDF preview, export, and JSON backups | React · TypeScript · Zustand · React PDF |
 | [Fluid Ledger](https://github.com/Siddhant-Gawai/fluid_ledger) | Local-first personal finance with cloud sync | Flutter · SQLite · Supabase |
 | [Forge](https://github.com/Siddhant-Gawai/forge) | Developer collaboration control plane | Go · PostgreSQL · SSE |
 | [Relay](https://github.com/Siddhant-Gawai/relay) | Event-driven integration and synchronization work | JavaScript · Kafka · CDC |
